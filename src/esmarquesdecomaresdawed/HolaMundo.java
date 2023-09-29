@@ -6,7 +6,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Hola mundo3200");
+		System.out.println("Hola mundo32002");
 	}
 
 }
