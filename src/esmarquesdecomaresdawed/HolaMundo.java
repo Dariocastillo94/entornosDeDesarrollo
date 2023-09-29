@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		System.out.println("Hola mundo32002");
+		System.out.println("Hola mundo388");
 	}
 
 }
